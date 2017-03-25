@@ -1,3 +1,4 @@
-$(function(){
-    $("#cachemoi").hide();
+$(function(){ 
+    elmt = $("p:first")
+    $('.container').append(elmt);
 }); 
