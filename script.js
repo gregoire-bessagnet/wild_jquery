@@ -1,4 +1,9 @@
-$('img').on('load', function () {
-  console.log('image load successful');
+$(document).ready(function(){
+
+
 });
+
+
+
+
 
